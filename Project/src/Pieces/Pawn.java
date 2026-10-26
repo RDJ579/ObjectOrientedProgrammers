@@ -1,7 +1,7 @@
 package Pieces;
 
-import board.Board;
-import board.Position;
+import Board.Board;
+import Board.Position;
 
 /** A pawn that moves forward and captures diagonally. */
 public class Pawn extends Piece {

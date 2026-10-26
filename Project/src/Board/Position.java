@@ -1,4 +1,4 @@
-package board;
+package Board;
 
 /** Stores a square on an 8 by 8 chessboard. */
 public class Position {

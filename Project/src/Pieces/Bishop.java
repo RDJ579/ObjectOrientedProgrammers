@@ -1,7 +1,7 @@
 package Pieces;
 
-import board.Board;
-import board.Position;
+import Board.Board;
+import Board.Position;
 
 /** A bishop that moves diagonally. */
 public class Bishop extends Piece {

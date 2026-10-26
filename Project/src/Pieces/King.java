@@ -1,7 +1,7 @@
 package Pieces;
 
-import board.Board;
-import board.Position;
+import Board.Board;
+import Board.Position;
 
 /** A king that moves one square in any direction. */
 public class King extends Piece {

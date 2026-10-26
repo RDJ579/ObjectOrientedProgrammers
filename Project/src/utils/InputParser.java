@@ -1,6 +1,6 @@
 package utils;
 
-import board.Position;
+import Board.Position;
 
 /** Converts console move input into board positions. */
 public class InputParser {
