@@ -1,3 +1,4 @@
+package Project.tests;
 import Board.Board;
 import Board.Position;
 import Pieces.Color;
