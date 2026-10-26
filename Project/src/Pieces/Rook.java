@@ -1,7 +1,7 @@
 package Pieces;
 
-import board.Board;
-import board.Position;
+import Board.Board;
+import Board.Position;
 
 /** A rook that moves horizontally or vertically. */
 public class Rook extends Piece {

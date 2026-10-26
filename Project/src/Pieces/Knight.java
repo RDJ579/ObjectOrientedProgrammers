@@ -1,12 +1,7 @@
 package Pieces;
 
-public class Knight {
-    
-}
-package pieces;
-
-import board.Board;
-import board.Position;
+import Board.Board;
+import Board.Position;
 
 /** A knight that moves in an L shape and can jump over pieces. */
 public class Knight extends Piece {

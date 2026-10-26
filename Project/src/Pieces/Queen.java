@@ -1,7 +1,7 @@
 package Pieces;
 
-import board.Board;
-import board.Position;
+import Board.Board;
+import Board.Position;
 
 /** A queen that moves straight or diagonally. */
 public class Queen extends Piece {
