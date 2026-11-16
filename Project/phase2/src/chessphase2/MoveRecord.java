@@ -1,4 +1,4 @@
-package Project.phase2.src.chessphase2;
+package chessphase2;
 
 /** Record of a completed move, including any captured piece for Undo. */
 public final class MoveRecord {

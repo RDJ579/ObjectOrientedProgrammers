@@ -1,8 +1,8 @@
-package Project.phase2.tests;
+package tests;
 
-import Project.phase2.src.chessphase2.ChessPiece;
-import Project.phase2.src.chessphase2.GameState;
-import Project.phase2.src.chessphase2.MoveRecord;
+import chessphase2.ChessPiece;
+import chessphase2.GameState;
+import chessphase2.MoveRecord;
 import java.nio.file.Files;
 import java.nio.file.Path;
 

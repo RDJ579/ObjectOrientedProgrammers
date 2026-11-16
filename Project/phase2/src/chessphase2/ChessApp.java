@@ -1,4 +1,4 @@
-package Project.phase2.src.chessphase2;
+package chessphase2;
 
 import javax.swing.SwingUtilities;
 
