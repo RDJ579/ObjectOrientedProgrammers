@@ -1,4 +1,4 @@
-package Project.phase2.src.chessphase2;
+package chessphase2;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;

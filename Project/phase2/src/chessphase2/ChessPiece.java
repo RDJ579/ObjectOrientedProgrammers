@@ -1,4 +1,4 @@
-package Project.phase2.src.chessphase2;
+package chessphase2;
 
 /**
  * Immutable description of one chess piece. Piece-specific move rules are
